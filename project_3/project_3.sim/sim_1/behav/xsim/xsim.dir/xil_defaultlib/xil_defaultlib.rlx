@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/ancac/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/ancac/project_3/project_3.srcs/sim_1/new/TB.v,1680707709,verilog,,,,TB,,,,,,,,
+C:/Users/ancac/project_3/project_3.srcs/sources_1/new/TOP.v,1680702888,verilog,,C:/Users/ancac/project_3/project_3.srcs/sources_1/new/cmp.v,,TOP,,,,,,,,
+C:/Users/ancac/project_3/project_3.srcs/sources_1/new/cmp.v,1680702785,verilog,,C:/Users/ancac/project_3/project_3.srcs/sources_1/new/miniTOP.v,,cmp,,,,,,,,
+C:/Users/ancac/project_3/project_3.srcs/sources_1/new/miniTOP.v,1680702856,verilog,,C:/Users/ancac/project_3/project_3.srcs/sources_1/new/mux.v,,miniTOP,,,,,,,,
+C:/Users/ancac/project_3/project_3.srcs/sources_1/new/mux.v,1680702818,verilog,,C:/Users/ancac/project_3/project_3.srcs/sources_1/new/sumator4.v,,mux,,,,,,,,
+C:/Users/ancac/project_3/project_3.srcs/sources_1/new/sumator4.v,1680702750,verilog,,C:/Users/ancac/project_3/project_3.srcs/sim_1/new/TB.v,,sumator4,,,,,,,,
